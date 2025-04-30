@@ -25,3 +25,4 @@ This notebook implements Grover's algorithm using 2 qubits.
 
 # License
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International [License](LICENSE.md).
+The tutorials use among others Qiskit, an open-source SDK for quantum computing by IBM, licensed under Apache 2.0.
