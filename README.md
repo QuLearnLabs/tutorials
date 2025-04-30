@@ -22,3 +22,6 @@ This notebook implements the circuit needed to generate entanglement between 2 q
 
 ### `grover_two_qubits`
 This notebook implements Grover's algorithm using 2 qubits.
+
+# License
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International [License](LICENSE.md).
